@@ -1,0 +1,3 @@
+Project on the `ga4_obfuscated_sample_ecommerce` dataset, for practicing using Google BigQuery.
+
+> Google Merchandise Store is an online store that sells Google-branded merchandise. The site uses Google Analytics 4's standard web ecommerce implementation along with enhanced measurement. The [`ga4_obfuscated_sample_ecommerce` dataset](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=ga4_obfuscated_sample_ecommerce&t=events_20210131&page=table) available through the BigQuery Public Datasets program contains a sample of obfuscated BigQuery event export data for three months from 2020-11-01 to 2021-01-31. More information can be found [here](https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset).
